@@ -1,0 +1,27 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 9b2d870..31ad5c7 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -4,7 +4,7 @@[m [mThis repository is for showing how Git and GitHub work[m
+ [m
+ ## Purpose[m
+ [m
+[31m-Sample website with plenty of files for demos[m
+[32m+[m[32mSample website with plenty of files for demos, asdljkfhasdfjkhañsdfjañsdfjhañjhasdfakj[m
+ [m
+ ## Deployment[m
+ sfgvsdfgsdfggssdfgdfg[m
+\ No newline at end of file[m
+[1mdiff --git a/simple.html b/simple.html[m
+[1mindex ca5e908..d22b1ba 100644[m
+[1m--- a/simple.html[m
+[1m+++ b/simple.html[m
+[36m@@ -4,7 +4,7 @@[m
+ 	<link rel="stylesheet" href="css/bootstrap.min.css">[m
+ 	<style>[m
+ 		body {[m
+[31m-			padding-top: 50px;[m
+[32m+[m			[32mpadding-top: 55px;[m
+ 			padding-bottom: 20px;[m
+ 		}[m
+ 	</style>[m
