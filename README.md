@@ -11,3 +11,6 @@ sfgvsdfgsdfggssdfgdfg
 
 ## Modifications
 to prove our knoledge or merge 
+
+## How to contribute
+Improve yourself, study hard
